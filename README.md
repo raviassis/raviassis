@@ -42,5 +42,6 @@ Welcome to my GitHub! I'm a **Software Engineer** with over 6 years of experienc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=blue) 
 
 Thanks for stopping by! 👋

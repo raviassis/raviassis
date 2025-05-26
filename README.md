@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravi Assis
 
-Welcome to my GitHub! I'm a **Software Engineer** with over 6 years of experience in full-stack development, passionate about clean code, scalable systems, and continuous learning.
+Welcome to my GitHub! I'm a **Software Engineer** with over 6 years of experience in backend and full-stack development. I'm passionate about clean code, scalable systems, and continuous learning.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=inspire&logoColor=white)](https://www.linkedin.com/in/ravi-assis-a31674b5/)
 ---
